@@ -1,6 +1,6 @@
 #filename: spec/spec-helper.#!/usr/bin/env ruby -wKU
 require 'selenium-webdriver'
-
+#configuration file
 RSpec.configure do |config|
 
 	config.before(:each) do |example|
