@@ -2,6 +2,8 @@
 require_relative 'spec_helper'
 require_relative '../pages/login'
 
+#This is a test that is calling method on logi page object
+
 describe 'Login' do
 
   before(:each) do
